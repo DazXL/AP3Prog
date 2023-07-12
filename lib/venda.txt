@@ -1,0 +1,21 @@
+CBR vendida para Caio
+XR vendida para Theo
+CBR vendida para Coutinho
+XR vendida para TorradaA moto cbr
+ foi vendida para ababa
+
+A moto cbr
+ foi vendida para ababa
+
+A moto cbr
+ foi vendida para ababa
+
+A moto cbr
+ foi vendida para ababa
+
+A moto cbr
+ foi vendida para ababa
+
+A moto cbr foi vendida para <built-in method strip of str object at 0x000002367F0A8DB0>
+A moto cbr foi vendida para <built-in method strip of str object at 0x000001CC625C4DF0>
+A moto cbr foi vendida para ababa
